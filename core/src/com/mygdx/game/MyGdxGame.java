@@ -130,6 +130,10 @@ public class MyGdxGame extends ApplicationAdapter implements InputProcessor{
 		img.dispose();
 		njuska.dispose();
 		pecurkaSlika.dispose();
+		dugmeStart.dispose();
+		dugmeQuit.dispose();
+		font.dispose();
+
 	}
 
 	@Override
